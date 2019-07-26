@@ -1,0 +1,14 @@
+{
+	"name": "getTimezone",
+	"type": "function",
+	"syntax": "getTimezone()",
+	"returns": "string",
+	"related": ["getTimezoneInfo","setTimezone","getLocale"],
+	"description": "Returns the timezone for the current request.",
+	"params": [],
+	"engines": {
+		"lucee": {"minimum_version": "", "notes": "", "docs": "https://docs.lucee.org/reference/functions/gettimezone.html"}
+	},
+	"links": [],
+	"examples": []
+}

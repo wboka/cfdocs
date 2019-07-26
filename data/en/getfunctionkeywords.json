@@ -1,0 +1,14 @@
+{
+	"name": "getFunctionKeywords",
+	"type": "function",
+	"syntax": "getFunctionKeywords()",
+	"returns": "array",
+	"related": [],
+	"description": "Returns all keywords defined with all functions.",
+	"params": [],
+	"engines": {
+		"lucee": {"minimum_version": "", "notes": "", "docs": "https://docs.lucee.org/reference/functions/getfunctionkeywords.html"}
+	},
+	"examples": [],
+	"links": []
+}

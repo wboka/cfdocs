@@ -1,0 +1,14 @@
+{
+	"name": "pagePoolClear",
+	"type": "function",
+	"syntax": "pagePoolClear()",
+	"returns": "boolean",
+	"related": [],
+	"description": "clear pages in pools",
+	"params": [],
+	"engines": {
+		"lucee": {"minimum_version": "", "notes": "", "docs": "https://docs.lucee.org/reference/functions/pagepoolclear.html"}
+	},
+	"examples": [],
+	"links": []
+}

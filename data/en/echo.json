@@ -1,0 +1,16 @@
+{
+	"name": "echo",
+	"type": "function",
+	"syntax": "echo(string)",
+	"returns": "boolean",
+	"related": ["writeOutput"],
+	"description": "While writeOutput writes to the page-output stream, this function writes to the main response buffer",
+	"params": [
+		{"name": "string", "description": "String to be written to the output buffer", "required": true, "default": "", "type": "string", "values": []}
+	],
+	"engines": {
+		"lucee": {"minimum_version": "", "notes": "", "docs": "https://docs.lucee.org/reference/functions/echo.html"}
+	},
+	"examples": [],
+	"links": []
+}

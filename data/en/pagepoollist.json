@@ -1,0 +1,14 @@
+{
+	"name": "pagePoolList",
+	"type": "function",
+	"syntax": "pagePoolList()",
+	"returns": "array",
+	"related": [],
+	"description": "list all pages in pools",
+	"params": [],
+	"engines": {
+		"lucee": {"minimum_version": "", "notes": "", "docs": "https://docs.lucee.org/reference/functions/pagepoollist.html"}
+	},
+	"examples": [],
+	"links": []
+}
